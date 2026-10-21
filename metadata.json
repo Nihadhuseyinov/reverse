@@ -1,0 +1,6 @@
+{
+  "name": "NixReverse - Səs Tərsinə Çevirmə & QR Studio",
+  "description": "Bütün formatlarda səs fayllarını tərsinə çevirin, fərdiləşdirilmiş QR kodlar yaradın və birbaşa paylaşın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
